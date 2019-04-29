@@ -3,5 +3,4 @@
 ## TODO
 
 - Docs
-- Docker
 - Tests
